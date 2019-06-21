@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
 <!-- default file list end -->
 # How to plot XY-series individually in a multiple pane chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3843)**
+<!-- run online end -->
 
 
 <p>This example demonstrates the capability of XY-series to be plotted individually in a multiple pane chart.</p><br />
